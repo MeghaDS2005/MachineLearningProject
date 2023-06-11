@@ -1,0 +1,7 @@
+{
+    "markdown.preferredMdPathExtensionStyle": "auto",
+    "emmet.extensionsPath": [
+        "python.condaPath"
+    ],
+    "python.defaultInterpreterPath": "python.condaPath"
+}

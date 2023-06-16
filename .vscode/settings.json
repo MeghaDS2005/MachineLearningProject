@@ -3,5 +3,8 @@
     "emmet.extensionsPath": [
         "python.condaPath"
     ],
-    "python.defaultInterpreterPath": "python.condaPath"
+    "python.defaultInterpreterPath": "python.condaPath",
+    "python.analysis.extraPaths": [
+        "./venv2/Lib/site-packages"
+    ]
 }

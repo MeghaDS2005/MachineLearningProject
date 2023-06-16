@@ -8038,7 +8038,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "7e82ad0e11ab9f0c28d4d12a490626aa79274a4692b526564f1df4b2c208018f",
   "size": 2938554,
   "subdir": "win-64",
